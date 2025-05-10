@@ -6,7 +6,7 @@ on:
   workflow_dispatch:      # Allows manual trigger from GitHub
 
 jobs:
-  send-news:
+  send-news: 
     runs-on: ubuntu-latest
 
     steps:
